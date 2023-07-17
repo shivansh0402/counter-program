@@ -1,7 +1,3 @@
-//-----------------------------------------------------
-// Testbench for the 4-bit up-counter ---------------->
-// Example from www.asic-world.com (with fixes)
-//-----------------------------------------------------
 #include "systemc.h"
 #include "design.cpp"
 
